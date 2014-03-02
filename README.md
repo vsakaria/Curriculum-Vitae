@@ -20,8 +20,8 @@ as great design and user experience. Because I feel well grounded in OO I am hap
     <td class="tg-031e">SupaDupa<br/>E-commerce</td>
     <td class="tg-031e">Full Stack Developer </td>
     <td class="tg-031e">I worked on adding features to a code base of 20000+ lines.  I produced a fully automated customer referral program using various APIs including the Recurely billing API, I used delayed jobs, cookies and all my code was writing using BDD. My skills in Rspec's mocking and stubbing code deepened with the use of send, should_receive, stub, with, and_return and mocking objects. Other skills include ActiveRecord dirty, ActionMailer, staging code and shipping, security flaws and designing code that is evolutionary .</td>
-    <td class="tg-031e"></td>
-    <td class="tg-031e"></td>
+    <td class="tg-031e">08-2013</td>
+    <td class="tg-031e">Current</td>
   </tr>
   <tr>
     <td class="tg-031e">Mastodon C<br/>Big Data</td>
@@ -31,15 +31,15 @@ using Leafet.js, D3.js & Underscore.js. I made the app
 fully reusable by using OO principles. I also 
 implemented UX idea's. (See portfolio).
 </td>
-    <td class="tg-031e"></td>
-    <td class="tg-031e"></td>
+    <td class="tg-031e">07-2013</td>
+    <td class="tg-031e">06-2013</td>
   </tr>
   <tr>
     <td class="tg-031e">Freelancer</td>
     <td class="tg-031e">Freelance<br/>Front End</td>
     <td class="tg-031e">I create business website for a varitey of local clients using HTML, CSS and JQuery & JS.</td>
-    <td class="tg-031e"></td>
-    <td class="tg-031e"></td>
+    <td class="tg-031e">08-2012</td>
+    <td class="tg-031e">02-2013</td>
   </tr>
   <tr>
     <td class="tg-031e">Parliament School</td>
@@ -48,8 +48,8 @@ implemented UX idea's. (See portfolio).
 business and ICT. Managing other temporary staff and 
 supporting assessment, behaviour and planning. 
 </td>
-    <td class="tg-031e"></td>
-    <td class="tg-031e"></td>
+    <td class="tg-031e">04-2010</td>
+    <td class="tg-031e">07-2012</td>
   </tr>
   <tr>
     <td class="tg-031e">Quintan Kyanston School</td>
@@ -59,8 +59,8 @@ Department responsibilities including creating courses
 for KS4 and KS5. Frequent assessment procedures and 
 executing the behaviour policy. 
 </td>
-    <td class="tg-031e"></td>
-    <td class="tg-031e"></td>
+    <td class="tg-031e">01-2008</td>
+    <td class="tg-031e">04-2012</td>
   </tr>
 </table>
 
