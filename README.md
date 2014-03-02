@@ -74,50 +74,89 @@ executing the behaviour policy.
     <th class="tg-031e">From&nbsp;</th>
     <th class="tg-031e">To&nbsp;</th>
   </tr>
+  
+  
   <tr>
+    <td class="tg-031e"></td>
+    <td class="tg-031e">Next Level Javascript</td>
+    <td class="tg-031e">07-2013</td>
+    <td class="tg-031e">06-2013</td>
+  </tr>
+  
+  <tr>
+    <td class="tg-031e"></td>
+    <td class="tg-031e">Designing UX for Multiple Devices</td>
+    <td class="tg-031e">07-2013</td>
+    <td class="tg-031e">06-2013</td>
+  </tr>
+  
+  <tr>
+    <td class="tg-031e"></td>
+    <td class="tg-031e">Understanding Information Architecture</td>
+    <td class="tg-031e">07-2013</td>
+    <td class="tg-031e">06-2013</td>
+  </tr>
+
+  <tr>
+    <td class="tg-031e"></td>
+    <td class="tg-031e">Ecommerce Workshop: Understanding the What, Why & How of Online Retail</td>
+    <td class="tg-031e">07-2013</td>
+    <td class="tg-031e">06-2013</td>
+  </tr>
+  
+  <tr>
+    <td class="tg-031e"></td>
+    <td class="tg-031e">Intro to Building Wireframes </td>
+    <td class="tg-031e">07-2013</td>
+    <td class="tg-031e">06-2013</td>
+  </tr>
+  
+  
+  
+  
+  <tr>  
     <td class="tg-031e">Makers Academy</td>
     
-    <td class="tg-031e">Javascript/jQuery/Jasmine
+    <td class="tg-031e"><b>Javascript/jQuery/Jasmine</b>
 Writing solid, reusable OO Javascript libraries using techniques such as prototype
 functions, function callbacks, and getting rid of global variables. Dealing with async
 Ajax calls using the deferred promises design pattern. In addition to using libraries
 such as jQuery, Underscore.js, Leaflet.js and the Rdio Api. I also use Jasmine BDD
 and I want to continue learning Backbone.js & Node.js.
-<br/>
-Ruby on Rails (MVC)
+<br/><br/>
+<b>Ruby on Rails (MVC)</b>
 Developing web apps using thorough OO design principles including fat models and
 skinny controllers, DRY and single responsibility. Thorough unit and functional
 testing. Using gems such as Mocha, OmniAuth and Devise. As well as clean concise
 code using encapsulation, inheritance, polymorphic association and single table
 inheritance.
-<br/>
-TDD
+<br/><br/>
+<b>BDD/TDD</b>
 I love testing because I believe in the benefits of it as a source of documentation, as
 a method for improving the way I write clean compact code using agile, and (to
 quote Uncle Bob) “Because of the tests, software becomes soft again.”.
-<br/>
-Ruby
+<br/><br/>
+<b>Ruby</b>
 Designing code to look beautiful as well as functional. Studying the documentation
 and increasing vocabulary.
-<br/>
-HTML/CSS
+<br/><br/>
+<b>HTML/CSS</b>
 Designing front-end with and without Bootstrap/Foundation. Media queries for
 responsive design & mobile.
-<br/>
-Design
+<br/><br/>
+<b>Design</b>
 I have a good eye for design and consistently seek new design ideas. I can use
 Photoshop.
-<br/>
+<br/><br/>
 Other skills: Git, SQL, Postgres, Heroku, Unix, Photoshop,
 Fireworks, UX, Pair Programming.
 
 </td>
-    <td class="tg-031e">08-2013</td>
-    <td class="tg-031e">Current</td>
+    <td class="tg-031e">02-2013</td>
+    <td class="tg-031e">05-2013</td>
   </tr>
   <tr>
-    <td class="tg-031e">Mastodon C<br/>Big Data</td>
-    
+    <td class="tg-031e"></td>
     <td class="tg-031e"></td>
     <td class="tg-031e">07-2013</td>
     <td class="tg-031e">06-2013</td>
