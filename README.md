@@ -78,7 +78,7 @@ executing the behaviour policy.
   
   <tr>
     <td class="tg-031e">Event Handler</td>
-    <td class="tg-031e">Next Level Javascript<span>TESTING</span></td>
+    <td class="tg-031e">Next Level Javascript<span style='font-size:48px;'>TESTING</span></td>
     <td class="tg-031e">One day</td>
     <td class="tg-031e"></td>
   </tr>
@@ -180,9 +180,3 @@ Fireworks, UX, Pair Programming.
     <td class="tg-031e">04-2012</td>
   </tr>
 </table>
-
-<style>
-span {
-  font-size: 10px;
-}
-</style>
