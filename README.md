@@ -17,7 +17,7 @@ as great design and user experience. Because I feel well grounded in OO I am hap
     <th class="tg-031e">To&nbsp;</th>
   </tr>
   <tr>
-    <td class="tg-031e">SupaDupa<br/>E-commerce</td>
+    <td class="tg-031e" valign="top">SupaDupa<br/>E-commerce</td>
     <td class="tg-031e">Full Stack Developer </td>
     <td class="tg-031e">I worked on adding features to a code base of 20000+ lines.  I produced a fully automated customer referral program using various APIs including the Recurely billing API, I used delayed jobs, cookies and all my code was writing using BDD. My skills in Rspec's mocking and stubbing code deepened with the use of send, should_receive, stub, with, and_return and mocking objects. Other skills include ActiveRecord dirty, ActionMailer, staging code and shipping, security flaws and designing code that is evolutionary .</td>
     <td class="tg-031e">08-2013</td>
