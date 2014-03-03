@@ -79,35 +79,35 @@ executing the behaviour policy.
   <tr>
     <td class="tg-031e">Event Handler</td>
     <td class="tg-031e">Next Level Javascript - Performance, Raw JS</td>
-    <td class="tg-031e">One day</td>
+    <td class="tg-031e">Evening</td>
     <td class="tg-031e"></td>
   </tr>
   
   <tr>
     <td class="tg-031e">General Assembly</td>
     <td class="tg-031e">Designing UX for Multiple Devices</td>
-    <td class="tg-031e">One day</td>
+    <td class="tg-031e">Evening</td>
     <td class="tg-031e"></td>
   </tr>
   
   <tr>
     <td class="tg-031e">General Assembly</td>
     <td class="tg-031e">Understanding Information Architecture</td>
-    <td class="tg-031e">One day</td>
+    <td class="tg-031e">Evening</td>
     <td class="tg-031e"></td>
   </tr>
 
   <tr>
     <td class="tg-031e">General Assembly</td>
     <td class="tg-031e">Ecommerce Workshop: Understanding the What, Why & How of Online Retail</td>
-    <td class="tg-031e">One day</td>
+    <td class="tg-031e">Evening</td>
     <td class="tg-031e"></td>
   </tr>
   
   <tr>
     <td class="tg-031e">General Assembly</td>
     <td class="tg-031e">Intro to Building Wireframes </td>
-    <td class="tg-031e">One day</td>
+    <td class="tg-031e">Evening</td>
     <td class="tg-031e"></td>
   </tr>
   
