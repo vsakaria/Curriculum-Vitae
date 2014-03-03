@@ -8,59 +8,59 @@ as great design and user experience. Because I feel well grounded in OO I am hap
 <h3>Employment Experience</h3>
 
 
-<table class="tg">
+<table>
   <tr>
-    <th class="tg-e3zv">Employee&nbsp;</th>
-    <th class="tg-031e">Job Title&nbsp;</th>
-    <th class="tg-031e">Responsibilities&nbsp;</th>
-    <th class="tg-031e">From&nbsp;</th>
-    <th class="tg-031e">To&nbsp;</th>
+    <th>Employee&nbsp;</th>
+    <th>Job Title&nbsp;</th>
+    <th>Responsibilities&nbsp;</th>
+    <th>From&nbsp;</th>
+    <th>To&nbsp;</th>
   </tr>
   <tr>
-    <td class="tg-031e" valign="top">SupaDupa<br/>E-commerce</td>
-    <td class="tg-031e">Full Stack Developer </td>
-    <td class="tg-031e">I worked on adding features to a code base of 20000+ lines.  I produced a fully automated customer referral program using various APIs including the Recurely billing API, I used delayed jobs, cookies and all my code was writing using BDD. My skills in Rspec's mocking and stubbing code deepened with the use of send, should_receive, stub, with, and_return and mocking objects. Other skills include ActiveRecord dirty, ActionMailer, staging code and shipping, security flaws and designing code that is evolutionary .</td>
-    <td class="tg-031e">08-2013</td>
-    <td class="tg-031e">Current</td>
+    <td valign="top">SupaDupa<br/>E-commerce</td>
+    <td>Full Stack Developer </td>
+    <td valign="top">I worked on adding features to a code base of 20000+ lines.  I produced a fully automated customer referral program using various APIs including the Recurely billing API, I used delayed jobs, cookies and all my code was writing using BDD. My skills in Rspec's mocking and stubbing code deepened with the use of send, should_receive, stub, with, and_return and mocking objects. Other skills include ActiveRecord dirty, ActionMailer, RegEx, Haml, SASS, Coffeescript, staging code and shipping, security flaws and designing code that is evolutionary .</td>
+    <td valign="top">08-2013</td>
+    <td valign="top">Current</td>
   </tr>
   <tr>
-    <td class="tg-031e">Mastodon C<br/>Big Data</td>
-    <td class="tg-031e">Javascript Contractor</td>
-    <td class="tg-031e">I built a JS Application that visualised data onto a map 
+    <td valign="top">Mastodon C<br/>Big Data</td>
+    <td valign="top">Javascript Contractor</td>
+    <td valign="top">I built a JS Application that visualised data onto a map 
 using Leafet.js, D3.js & Underscore.js. I made the app 
 fully reusable by using OO principles. I also 
 implemented UX idea's. (See portfolio).
 </td>
-    <td class="tg-031e">07-2013</td>
-    <td class="tg-031e">06-2013</td>
+    <td valign="top">07-2013</td>
+    <td valign="top">06-2013</td>
   </tr>
   <tr>
-    <td class="tg-031e">Freelancer</td>
-    <td class="tg-031e">Freelance<br/>Front End</td>
-    <td class="tg-031e">I create business website for a varitey of local clients using HTML, CSS and JQuery & JS.</td>
-    <td class="tg-031e">08-2012</td>
-    <td class="tg-031e">02-2013</td>
+    <td valign="top">Freelancer</td>
+    <td valign="top">Freelance<br/>Front End</td>
+    <td valign="top">I create business website for a varitey of local clients using HTML, CSS and JQuery & JS.</td>
+    <td valign="top">08-2012</td>
+    <td valign="top">02-2013</td>
   </tr>
   <tr>
-    <td class="tg-031e">Parliament School</td>
-    <td class="tg-031e">Deputy Head of ICT</td>
-    <td class="tg-031e">Planning sound learning activities for KS3,KS4 and KS5 
+    <td valign="top">Parliament School</td>
+    <td valign="top">Deputy Head of ICT</td>
+    <td valign="top">Planning sound learning activities for KS3,KS4 and KS5 
 business and ICT. Managing other temporary staff and 
 supporting assessment, behaviour and planning. 
 </td>
-    <td class="tg-031e">04-2010</td>
-    <td class="tg-031e">07-2012</td>
+    <td valign="top">04-2010</td>
+    <td valign="top">07-2012</td>
   </tr>
   <tr>
-    <td class="tg-031e">Quintan Kyanston School</td>
-    <td class="tg-031e">Teacher of ICT<br/>Head of e-learning</td>
-    <td class="tg-031e">Planning and preparing KS3,KS4 and KS5 lessons. 
+    <td valign="top">Quintan Kyanston School</td>
+    <td valign="top">Teacher of ICT<br/>Head of e-learning</td>
+    <td valign="top">Planning and preparing KS3,KS4 and KS5 lessons. 
 Department responsibilities including creating courses 
 for KS4 and KS5. Frequent assessment procedures and 
 executing the behaviour policy. 
 </td>
-    <td class="tg-031e">01-2008</td>
-    <td class="tg-031e">04-2012</td>
+    <td valign="top">01-2008</td>
+    <td valign="top">04-2012</td>
   </tr>
 </table>
 
@@ -69,55 +69,55 @@ executing the behaviour policy.
 
 <table class="tg">
   <tr>
-    <th class="tg-e3zv">Eduction&nbsp;</th>
-    <th class="tg-031e">Training, course and grades&nbsp;</th>
-    <th class="tg-031e">From&nbsp;</th>
-    <th class="tg-031e">To&nbsp;</th>
+    <th>Eduction&nbsp;</th>
+    <th>Training, course and grades&nbsp;</th>
+    <th>From&nbsp;</th>
+    <th>To&nbsp;</th>
   </tr>
   
   
   <tr>
-    <td class="tg-031e">Event Handler</td>
-    <td class="tg-031e">Next Level Javascript - Performance, Raw JS</td>
-    <td class="tg-031e">Evening</td>
-    <td class="tg-031e"></td>
+    <td valign="top">Event Handler</td>
+    <td valign="top">Next Level Javascript - Performance, Raw JS</td>
+    <td valign="top">Evening</td>
+    <td valign="top"></td>
   </tr>
   
   <tr>
-    <td class="tg-031e">General Assembly</td>
-    <td class="tg-031e">Designing UX for Multiple Devices</td>
-    <td class="tg-031e">Evening</td>
-    <td class="tg-031e"></td>
+    <td valign="top">General Assembly</td>
+    <td valign="top">Designing UX for Multiple Devices</td>
+    <td valign="top">Evening</td>
+    <td valign="top"></td>
   </tr>
   
   <tr>
-    <td class="tg-031e">General Assembly</td>
-    <td class="tg-031e">Understanding Information Architecture</td>
-    <td class="tg-031e">Evening</td>
-    <td class="tg-031e"></td>
+    <td valign="top">General Assembly</td>
+    <td valign="top">Understanding Information Architecture</td>
+    <td valign="top">Evening</td>
+    <td valign="top"></td>
   </tr>
 
   <tr>
-    <td class="tg-031e">General Assembly</td>
-    <td class="tg-031e">Ecommerce Workshop: Understanding the What, Why & How of Online Retail</td>
-    <td class="tg-031e">Evening</td>
-    <td class="tg-031e"></td>
+    <td valign="top">General Assembly</td>
+    <td valign="top">Ecommerce Workshop: Understanding the What, Why & How of Online Retail</td>
+    <td valign="top">Evening</td>
+    <td valign="top"></td>
   </tr>
   
   <tr>
-    <td class="tg-031e">General Assembly</td>
-    <td class="tg-031e">Intro to Building Wireframes </td>
-    <td class="tg-031e">Evening</td>
-    <td class="tg-031e"></td>
+    <td valign="top">General Assembly</td>
+    <td valign="top">Intro to Building Wireframes </td>
+    <td valign="top">Evening</td>
+    <td valign="top"></td>
   </tr>
   
   
   
   
   <tr>  
-    <td class="tg-031e">Makers Academy</td>
+    <td valign="top">Makers Academy</td>
     
-    <td class="tg-031e"><b>Javascript/jQuery/Jasmine</b>
+    <td valign="top"><b>Javascript/jQuery/Jasmine</b>
 Writing solid, reusable OO Javascript libraries using techniques such as prototype
 functions, function callbacks, and getting rid of global variables. Dealing with async
 Ajax calls using the deferred promises design pattern. In addition to using libraries
@@ -152,18 +152,18 @@ Other skills: Git, SQL, Postgres, Heroku, Unix, Photoshop,
 Fireworks, UX, Pair Programming.
 
 </td>
-    <td class="tg-031e">02-2013</td>
-    <td class="tg-031e">05-2013</td>
+    <td valign="top">02-2013</td>
+    <td valign="top">05-2013</td>
   </tr>
   <tr>
-    <td class="tg-031e">King’s College London</td>
-    <td class="tg-031e">Post Graduate Cert. In Education in ICT (11 -18 year old) Teacher training for KS3, KS4 and KS5</td>
-    <td class="tg-031e">09-2006</td>
-    <td class="tg-031e">05-2007</td>
+    <td valign="top">King’s College London</td>
+    <td valign="top">Post Graduate Cert. In Education in ICT (11 -18 year old) Teacher training for KS3, KS4 and KS5</td>
+    <td valign="top">09-2006</td>
+    <td valign="top">05-2007</td>
   </tr>
   <tr>
-    <td class="tg-031e">London Guildhall University</td>
-    <td class="tg-031e">BSc (Hons) Computing Information Systems with Marketing - 2.1
+    <td valign="top">London Guildhall University</td>
+    <td valign="top">BSc (Hons) Computing Information Systems with Marketing - 2.1
       Advanced Java Programming 1st
       Java Programming 1st
       Software Engineering (SDLC) 1st
@@ -171,19 +171,19 @@ Fireworks, UX, Pair Programming.
       Databases 2.1
       Final Project: Web site for mobile phones in Java 2.1
     </td>
-    <td class="tg-031e">09-2000</td>
-    <td class="tg-031e">07-2003</td>
+    <td valign="top">09-2000</td>
+    <td valign="top">07-2003</td>
   </tr>
   <tr>
-    <td class="tg-031e">WS College (Evening)</td>
-    <td class="tg-031e">Mobile programming Java programming, XML, XSLT, WML, HTML, Apache Tomcat, SQL</td>
-    <td class="tg-031e">06-2002</td>
-    <td class="tg-031e">09-2003</td>
+    <td valign="top">WS College (Evening)</td>
+    <td valign="top">Mobile programming Java programming, XML, XSLT, WML, HTML, Apache Tomcat, SQL</td>
+    <td valign="top">06-2002</td>
+    <td valign="top">09-2003</td>
   </tr>
   <tr>
-    <td class="tg-031e">WS College (Evening)</td>
-    <td class="tg-031e">Oracle Databases, forms and PL SQL</td>
-    <td class="tg-031e">11-2002</td>
-    <td class="tg-031e">06-2003</td>
+    <td valign="top">WS College (Evening)</td>
+    <td valign="top">Oracle Databases, forms and PL SQL</td>
+    <td valign="top">11-2002</td>
+    <td valign="top">06-2003</td>
   </tr>
 </table>
