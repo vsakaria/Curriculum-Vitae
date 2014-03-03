@@ -78,7 +78,7 @@ executing the behaviour policy.
   
   <tr>
     <td class="tg-031e">Event Handler</td>
-    <td class="tg-031e">Next Level Javascript<span style='font-size:48px;'>TESTING</span></td>
+    <td class="tg-031e">Next Level Javascript - Performance, Raw JS</td>
     <td class="tg-031e">One day</td>
     <td class="tg-031e"></td>
   </tr>
@@ -156,27 +156,34 @@ Fireworks, UX, Pair Programming.
     <td class="tg-031e">05-2013</td>
   </tr>
   <tr>
-    <td class="tg-031e"></td>
-    <td class="tg-031e"></td>
-    <td class="tg-031e">07-2013</td>
-    <td class="tg-031e">06-2013</td>
+    <td class="tg-031e">King’s College London</td>
+    <td class="tg-031e">Post Graduate Cert. In Education in ICT (11 -18 year old) Teacher training for KS3, KS4 and KS5</td>
+    <td class="tg-031e">09-2006</td>
+    <td class="tg-031e">05-2007</td>
   </tr>
   <tr>
-    <td class="tg-031e">Freelancer</td>
-    <td class="tg-031e"></td>
-    <td class="tg-031e">08-2012</td>
-    <td class="tg-031e">02-2013</td>
+    <td class="tg-031e">London Guildhall University</td>
+    <td class="tg-031e">BSc (Hons) Computing Information Systems with Marketing - 2.1
+      Advanced Java Programming 1st
+      Java Programming 1st
+      Software Engineering (SDLC) 1st
+      Computer Graphics in Java 2.1
+      Databases 2.1
+      Final Project: Web site for mobile phones in Java 2.1
+    </td>
+    <td class="tg-031e">09-2000</td>
+    <td class="tg-031e">07-2003</td>
   </tr>
   <tr>
-    <td class="tg-031e">Parliament School</td>
-    <td class="tg-031e"></td>
-    <td class="tg-031e">04-2010</td>
-    <td class="tg-031e">07-2012</td>
+    <td class="tg-031e">WS College (Evening)</td>
+    <td class="tg-031e">Mobile programming Java programming, XML, XSLT, WML, HTML, Apache Tomcat, SQL</td>
+    <td class="tg-031e">06-2002</td>
+    <td class="tg-031e">09-2003</td>
   </tr>
   <tr>
-    <td class="tg-031e">Quintan Kyanston School</td>
-    <td class="tg-031e"> </td>
-    <td class="tg-031e">01-2008</td>
-    <td class="tg-031e">04-2012</td>
+    <td class="tg-031e">WS College (Evening)</td>
+    <td class="tg-031e">Oracle Databases, forms and PL SQL</td>
+    <td class="tg-031e">11-2002</td>
+    <td class="tg-031e">06-2003</td>
   </tr>
 </table>
