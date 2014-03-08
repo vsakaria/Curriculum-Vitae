@@ -13,8 +13,8 @@ as great design and user experience. Because I feel well grounded in OO I am hap
     <th>Employee&nbsp;</th>
     <th>Job Title&nbsp;</th>
     <th>Responsibilities&nbsp;</th>
-    <th>From&nbsp;</th>
-    <th>To&nbsp;</th>
+    <th>From&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+    <th>To&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
   </tr>
   <tr>
     <td valign="top">SupaDupa<br/>E-commerce</td>
