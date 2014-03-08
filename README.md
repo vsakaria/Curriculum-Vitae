@@ -80,35 +80,35 @@ executing the behaviour policy.
     <td valign="top">Event Handler</td>
     <td valign="top">Next Level Javascript - Performance, Raw JS</td>
     <td valign="top">Evening</td>
-    <td valign="top"></td>
+    <td valign="top">Evening</td>
   </tr>
   
   <tr>
     <td valign="top">General Assembly</td>
     <td valign="top">Designing UX for Multiple Devices</td>
     <td valign="top">Evening</td>
-    <td valign="top"></td>
+    <td valign="top">Evening</td>
   </tr>
   
   <tr>
     <td valign="top">General Assembly</td>
     <td valign="top">Understanding Information Architecture</td>
     <td valign="top">Evening</td>
-    <td valign="top"></td>
+    <td valign="top">Evening</td>
   </tr>
 
   <tr>
     <td valign="top">General Assembly</td>
     <td valign="top">Ecommerce Workshop: Understanding the What, Why & How of Online Retail</td>
     <td valign="top">Evening</td>
-    <td valign="top"></td>
+    <td valign="top">Evening</td>
   </tr>
   
   <tr>
     <td valign="top">General Assembly</td>
     <td valign="top">Intro to Building Wireframes </td>
     <td valign="top">Evening</td>
-    <td valign="top"></td>
+    <td valign="top">Evening</td>
   </tr>
   
   
