@@ -1,1 +1,41 @@
-Notify JOb
+class AmbassadorNotifyJob < Struct.new(:shop, :message)
+
+  def perform
+    if shop.referred?
+      invoice_number = message['transaction']['invoice_number']
+
+      log "about to look up the Recurly Invoice and calculate the revenue as USD for Invoice Number: #{invoice_number}"
+
+      recurly_helper = RecurlyInvoiceHelper.new invoice_number
+      revenue_as_usd = recurly_helper.revenue
+
+      log "revenue as usd returned as: #{revenue_as_usd.to_s}"
+
+      unless revenue_as_usd.zero?
+        response = Mbsy::Event.create({
+          email: shop.users.first.email,
+          short_code: shop.referral_id,
+          revenue: revenue_as_usd,
+          campaign_uid: shop.campaign_id,
+          uid: shop.id,
+          auto_create: 1
+        })
+
+        log "Success! Mbsy response #{response}"
+      end
+    end
+  rescue Exception => e
+    message = "ERROR: Comission creation failed for shop #{shop.name} (#{shop.id}): #{e.message}"
+    log "#{message} \n#{e.backtrace}"
+    Rails.logger.info message
+    Rails.logger.info e.backtrace
+    Airbrake.notify e, { error_message: message, backtrace: e.backtrace }
+    raise e
+  end
+
+  def log(message)
+    @logger ||= Logger.new(Rails.root.join('log', 'ambassador.log'))
+    timestamp = "[#{Time.now.to_s(:short)}]"
+    @logger.info "#{timestamp} #{message}\n\n"
+  end
+end
