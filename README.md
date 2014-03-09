@@ -19,7 +19,7 @@ My passion is Software Engineering using strong Object Oriented principles and B
       I also ran the most successful social media camping and was consistently praised for my pixel perfect pages.
     </td>
     <td valign="top">08-2013</td>
-    <td valign="top">Current</td>
+    <td valign="top">Time.now</td>
   </tr>
   <tr>
     <td valign="top">Mastodon C<br/>Big Data</td>
