@@ -1,17 +1,17 @@
 context 'when User clicks Get Started' do
-    before { @code = { 'response' => { 'code' => '200'} } }
-    
-    it 'should create an Ambassador and redirect to show ' do
-      HTTParty.stub(:get).and_return(@code)
-      post :create
-      expect(response).to redirect_to action: :show
-    end
+  before { @code = { 'response' => { 'code' => '200'} } }
+  
+  it 'should create an Ambassador and redirect to show ' do
+    HTTParty.stub(:get).and_return(@code)
+    post :create
+    expect(response).to redirect_to action: :show
+  end
 
-    it 'should set the user as an Ambassador on Db' do
-      HTTParty.stub(:get).and_return(@code)
-      post :create
-      expect(@user.reload.ambassador?).to eq(true)
-    end
+  it 'should set the user as an Ambassador on Db' do
+    HTTParty.stub(:get).and_return(@code)
+    post :create
+    expect(@user.reload.ambassador?).to eq(true)
+  end
 end
 
 
