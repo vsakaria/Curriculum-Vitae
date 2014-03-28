@@ -79,6 +79,9 @@
       describe('Calculate the nearest delivery point', function() { 
 
         it('should find the nearest deliever point and the number of miles to the JEB ', function() {
+            
+            ***************************MOCKING ANS STUBBING USING SPIES******************************
+            
             spyOn(this.townActors, 'getActors').andReturn({D: [2,2], D2: [5,2], JEB: [8,7] });
             var stubbedActors = this.townActors.getActors();
             
