@@ -42,9 +42,8 @@ My passion is Software Engineering using strong Object Oriented principles and B
   <tr>
     <td valign="top">Parliament School</td>
     <td valign="top">Deputy Head of ICT</td>
-    <td valign="top">Planning sound learning activities for KS3,KS4 and KS5
-      business and ICT. Managing & mentoring other temporary staff and
-      supporting assessment, behaviour and planning.
+    <td valign="top">I taught ICT to people aged 11-18,  I also supported and mentored teenagers that were failing within the school system and inspired A-level students to take degrees in Computing at University.   
+My GCSE results were 85% A-C.
     </td>
     <td valign="top">04-2010</td>
     <td valign="top">07-2012</td>
@@ -52,10 +51,8 @@ My passion is Software Engineering using strong Object Oriented principles and B
   <tr>
     <td valign="top">Quintan Kyanston School</td>
     <td valign="top">Teacher of ICT<br/>Head of e-learning</td>
-    <td valign="top">Planning and preparing KS3,KS4 and KS5 lessons.
-      Department responsibilities including creating courses
-      for KS4 and KS5. Frequent assessment procedures and
-      executing the behaviour policy.
+    <td valign="top">I taught ICT to people in some of the most deprived area's in London. I was prompted to head of e-learning and worked very closely to the deputy head teacher, together we prompted the virtual learning environment across the school. I volunteered to do youth club once a week. 
+My GCSE results were 90% A-C.
     </td>
     <td valign="top">01-2008</td>
     <td valign="top">04-2012</td>
