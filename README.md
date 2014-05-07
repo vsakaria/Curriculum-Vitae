@@ -1,7 +1,22 @@
 <p>
-My passion is Software Engineering using strong Object Oriented principles and BDD as well as great design and user experience. Because I feel well grounded in OO I am happy to dive into any language or code base. I get a real buzz out of feeding use cases into tests and then writing code. I strive to communicate concisely & clearly, and love discussing new solutions as a team. It is difficult to encapsulate my personality, however people would describe me as fun, creative, altruistic, confident, enthusiastic, and inquisitive. I love to travel and recently have been to the far east and Brazil. I also enjoying dancing and music as well as socialising and talking to new people.
+My passion is Software Engineering using strong Object Oriented principles and BDD as well as great design and user experience. Because of this I love JS coupled with UX/UI, and want to pursue a career as a client side developer. I get a real buzz out of feeding use cases into tests and then writing code. I strive to communicate concisely & clearly, and love discussing new solutions as a team. It is difficult to encapsulate my personality, however people would describe me as fun, creative, altruistic, confident, enthusiastic, and inquisitive. I love to travel and recently have been to the far east and Brazil. I also enjoying dancing and music as well as socialising and talking to new people.
 <br/></p>
 <h4>Personal Page and vblog: www.vishal81.com</h4>
+<h3>Self study, learning & personal projects</h3>
+<table>
+<tr><th align='left'>Topics</th></tr>
+<tr>
+<td valign="top">
+Angular JS Directives, Dependency Injection, Two Way Binding, Scope Models, Filters, Controllers. Karma Testing     Environment, Jasmine Unit testing, Protractor E2E testing. 
+Backbone JS, Model, Views, Collections, Underscore Templates.
+Require JS,
+Yeoman, Bower, Grunt Build,
+Build Minificaton processes, 
+JS/Web Performance.
+</td>
+</tr>
+</table>
+
 <h3>Employment Experience</h3>
 <table>
   <tr>
