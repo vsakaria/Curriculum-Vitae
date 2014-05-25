@@ -2,7 +2,7 @@
 'use strict';
 
 (function () {
-  describe('Just Eat Robot Delivery System', function () {
+  describe( 'Delivery Man System', function () {
     describe('Creation of a Take Away Town Map', function () {
       
       it('should create an array for the town map co-ordinates', function () {
