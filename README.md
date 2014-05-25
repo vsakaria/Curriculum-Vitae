@@ -39,7 +39,7 @@ JS/Web Performance.
       I worked on adding features to a code base of 20000+ lines. I produced a fully automated customer referral system using various APIs including the Recurely billing API. All my code was writing using BDD, my skills in Rspec's mocking and stubbing deepened with the use of send, should_receive, stub, with, and_return and mocking objects. Other skills include Delayed Jobs, Cookies, ActiveRecord dirty, ActionMailer, RegEx, Haml, SASS, Coffeescript, staging and shipping code, assessing security flaws and designing code that is evolutionary.<br/>
       I also ran the most successful social media campaign and was consistently praised for my pixel perfect pages.
     </td>
-    <td valign="top">08-2013</td>
+    <td valign="top">07-2013</td>
     <td valign="top">Time.now</td>
   </tr>
   <tr>
@@ -50,8 +50,8 @@ JS/Web Performance.
       fully reusable by using OO principles. I also
       implemented UX idea's. (See portfolio).
     </td>
+    <td valign="top">05-2013</td>
     <td valign="top">07-2013</td>
-    <td valign="top">06-2013</td>
   </tr>
   <tr>
     <td valign="top">Freelancer</td>
