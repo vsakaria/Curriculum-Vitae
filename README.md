@@ -99,6 +99,13 @@ My GCSE results were 90% A-C.
   </tr>
   
   <tr>
+    <td valign="top">Event Handler</td>
+    <td valign="top">Testing Javascript - Jamsine and Karma </td>
+    <td valign="top">Evening</td>
+    <td valign="top">Evening</td>
+  </tr>
+  
+  <tr>
     <td valign="top">General Assembly</td>
     <td valign="top">Designing UX for Multiple Devices<br/><ul><li>Responsive design and mobile apps</li><li>Content strategy and hierarchy across devices app structures</li><li>Navigation patterns for responsive design</li></ul>
   </td>
