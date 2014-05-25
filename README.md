@@ -1,3 +1,9 @@
+<h2>Examples of Code</h2>
+https://github.com/vsakaria/OO-Javascript-Examples
+https://github.com/vsakaria/choropleth-map-creator
+https://github.com/vsakaria/ng-language
+https://github.com/vsakaria/crowd
+
 <p>
 My passion is Software Engineering using strong Object Oriented principles and BDD as well as great design and user experience. Because of this I love JS coupled with UX/UI, and want to pursue a career as a client side developer. I get a real buzz out of feeding use cases into tests and then writing code. I strive to communicate concisely & clearly, and love discussing new solutions as a team. It is difficult to encapsulate my personality, however people would describe me as fun, creative, altruistic, confident, enthusiastic, and inquisitive. I love to travel and recently have been to the far east and Brazil. I also enjoying dancing and music as well as socialising and talking to new people.
 <br/></p>
